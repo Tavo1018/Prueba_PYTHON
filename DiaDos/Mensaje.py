@@ -1,0 +1,6 @@
+print("Escribe el mensaje deseado ")
+mensaje=input()
+print("Cuantas veces desea repetir su mensaje? ")
+cantidad=int(input())
+print(mensaje*cantidad)
+input("....")
